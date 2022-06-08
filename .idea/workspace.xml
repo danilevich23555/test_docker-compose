@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b477541-6980-4936-9db1-bfe36f6a2aa4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/stocks_products/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/stocks_products/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/.idea/stocks_products.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/logistic/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/logistic/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/logistic/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/logistic/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/logistic/.idea/logistic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/logistic/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/logistic/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/logistic/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/logistic/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/logistic/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/logistic/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/logistic/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/logistic/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/logistic/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/logistic/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/logistic/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/logistic/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/requests-examples.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/stocks_products/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/stocks_products/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/stocks_products/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/stocks_products/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks_products/stocks_products/stocks_products/wsgi.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/stocks_products" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2A3eKYQnedsHAQ5esHOVQCsRXXe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/danila455/docker-compose/stocks_products/stocks_products&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.docker-compose.yml: Compose Deployment">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="docker-compose" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stocks_products" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stocks_products/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.nginx: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="nginx" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.postgres: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="postgres" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Docker.docker-compose.yml.nginx: Compose Deployment" />
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="Docker.docker-compose.yml.postgres: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b477541-6980-4936-9db1-bfe36f6a2aa4" name="Changes" comment="" />
+      <created>1654242632566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654242632566</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

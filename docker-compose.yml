@@ -1,0 +1,41 @@
+version: '3.8'
+
+
+services:
+
+  nginx:
+    depends_on:
+      - backend
+    image: nginx
+    ports:
+      - '80:80'
+    volumes:
+      - ./static:/static
+      - ./nginx.conf:/etc/nginx/conf.d/dfault.conf
+  backend:
+    build: .
+    image: new_python
+    ports:
+      - '8000:8000'
+    depends_on:
+      - migration
+      - collectstatic
+      - postgres
+  collectstatic:
+    image: new_python
+    build: .
+    command: python /app/manage.py collectstatic --noinput
+  postgres:
+    image: postgres:11.0-alpine
+    environment:
+      POSTGRES_DB: "netology_stocks_products"
+      POSTGRES_USER: "postgres"
+      POSTGRES_PASSWORD: "masterkey"
+    ports:
+      - '5432:5432'
+  migration:
+    depends_on:
+      - postgres
+    image: new_python
+    build: .
+    command: python /app/manage.py migrate --noinput
